@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi, I'm Brandon 🙋‍♂️
 
-I'm Brandon, a Data Analyst, Engineer, and data enthusiast!
-
-### ✨ About Me in 30 Seconds ✨
+## ✨ About Me in 30 Seconds ✨
 - Mechanical Engineering background with 6+ years experience
-- Love to learn new concepts and technologies
+- Data Analyst with experience in Excel, SQL, Power BI, and Tableau
+- Always open to learning new concepts and technologies
+- Fun Fact: I've been both shark-cage diving and skydiving
+
+# Make sure to check out my Data Analyst Portfolio repository!
 
 
 <!--
