@@ -4,7 +4,7 @@
 - Mechanical Engineering background with 6+ years experience
 - Data Analyst with experience in Excel, SQL, Power BI, and Tableau
 - Always open to learning new concepts and technologies
-- Fun Fact: I've been both shark-cage diving and skydiving
+- Fun Fact: I've been both shark-cage diving 🦈 and skydiving 🛩️
 
 ### Make sure to check out my Data Analyst Portfolio repository!
 
