@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Brandon, a Data Analyst, Engineer, and data enthusiast!
+
+### ✨ About Me in 30 Seconds ✨
+- Mechanical Engineering background with 6+ years experience
+- Love to learn new concepts and technologies
+
+
 <!--
 **bhopkins332/bhopkins332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
